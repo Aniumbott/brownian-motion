@@ -10,4 +10,4 @@ Run as a python script:
 python3 brownian_motion.py
 ```
 ## Output
-
+[YouTube](https://youtu.be/1DBV0h5H9Ek)
